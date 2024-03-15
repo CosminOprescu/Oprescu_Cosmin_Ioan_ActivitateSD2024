@@ -1,3 +1,0 @@
-1,Otopeni,30
-2,Banseasa,15
-3,Sibiu,25
