@@ -1,0 +1,44 @@
+﻿  Sem1.c
+  Sem2.c
+  Sem3.c
+  Sem4.c
+  Sem5.c
+  Sem6.c
+  Sem7.c
+  Sem8.c
+  Sem10.c
+  Generating Code...
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem1.c(26,20): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem1.c(27,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem1.c(47,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem1.c(53,63): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem2.c(12,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem2.c(13,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem2.c(91,55): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem4.c(121,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem5.c(26,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem5.c(27,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem5.c(58,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem6.c(114,13): warning C4101: 'b4': unreferenced local variable
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem7.c(49,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\SeminareSDD2024\Sem2.c(69,1): warning C4715: 'returneazaCalculator': not all control paths return a value
+Sem2.obj : error LNK2005: main already defined in Sem1.obj
+Sem3.obj : error LNK2005: dezalocare already defined in Sem2.obj
+Sem3.obj : error LNK2005: main already defined in Sem1.obj
+Sem4.obj : error LNK2005: adaugaAeroport already defined in Sem3.obj
+Sem4.obj : error LNK2005: afisareAeroport already defined in Sem3.obj
+Sem4.obj : error LNK2005: afisareVectorAeroporturi already defined in Sem3.obj
+Sem4.obj : error LNK2005: citireFisier already defined in Sem3.obj
+Sem4.obj : error LNK2005: dezalocare already defined in Sem2.obj
+Sem4.obj : error LNK2005: idCautat already defined in Sem3.obj
+Sem4.obj : error LNK2005: main already defined in Sem1.obj
+Sem5.obj : error LNK2005: initializare already defined in Sem2.obj
+Sem5.obj : error LNK2005: main already defined in Sem1.obj
+Sem6.obj : error LNK2005: initializare already defined in Sem2.obj
+Sem6.obj : error LNK2005: inserareInceput already defined in Sem5.obj
+Sem6.obj : error LNK2005: main already defined in Sem1.obj
+Sem7.obj : error LNK2005: main already defined in Sem1.obj
+Sem8.obj : error LNK2005: main already defined in Sem1.obj
+Sem10.obj : error LNK2005: citireFisier already defined in Sem3.obj
+Sem10.obj : error LNK2005: main already defined in Sem1.obj
+C:\Users\Cosmin\OneDrive\Desktop\SDD\SeminareSDD2024\x64\Debug\SeminareSDD2024.exe : fatal error LNK1169: one or more multiply defined symbols found
